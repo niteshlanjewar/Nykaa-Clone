@@ -84,5 +84,5 @@ After successful payment user will get order confirmation message with order no.
 ### Arpit Saraswat <a href="https://github.com/ArpitSaraswat1997">github.com/ArpitSaraswat1997</a>
 ### Pawan Singh <a href="https://github.com/almightycoder4">github.com/almightycoder4</a>
 ### Sourav Jana <a href="https://github.com/sourav215">github.com/sourav215</a>
-### Nitesh R. Lanjewar <a href="https://github.com/niteshlanjewar">github.com/niteshlanjewar</a>
+### Nitesh R. Lanjewar <a href="https://github.com/kartikCod3">github.com/kartikCod3</a>
 ### Animesh <a href="https://github.com/animeshpw08049">github.com/animeshpw08049</a>
